@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="AOC.kt" file-name="src/main/kotlin/dev/rjan/aoc2024/day${AOC_DAY}/Day${AOC_DAY}.kt" reformat="true" live-template-enabled="true">
+        <template name="AOC.kt.child.0.kt" file-name="src/test/kotlin/dev/rjan/aoc2024/day${AOC_DAY}/Day${AOC_DAY}Test.kt" reformat="true" live-template-enabled="false" />
+        <template name="AOC.kt.child.1.txt" file-name="src/main/resources/input/day${AOC_DAY}/day${AOC_DAY}" reformat="true" live-template-enabled="false" />
+        <template name="AOC.kt.child.2.txt" file-name="src/test/resources/input/day${AOC_DAY}/day${AOC_DAY}" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="AOC.kt.child.0.kt" file-name="src/test/kotlin/dev/rjan/aoc2024/day${AOC_DAY}/Day${AOC_DAY}Test.kt" reformat="true" live-template-enabled="false" />
+      <template name="AOC.kt.child.1.txt" file-name="src/main/resources/input/day${AOC_DAY}/day${AOC_DAY}" reformat="true" live-template-enabled="false" />
+      <template name="AOC.kt.child.2.txt" file-name="src/test/resources/input/day${AOC_DAY}/day${AOC_DAY}" reformat="true" live-template-enabled="false" />
+    </default_templates>
+  </component>
+</project>
